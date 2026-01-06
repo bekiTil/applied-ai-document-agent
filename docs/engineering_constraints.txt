@@ -1,0 +1,17 @@
+Engineering Constraints and System Limitations
+
+The current backend infrastructure is stable but operating near peak capacity during high-traffic periods.
+Recent load tests show that database read latency increases significantly under heavy analytical workloads.
+
+Key constraints:
+- Limited engineering bandwidth for large refactors
+- Strict uptime requirements (99.95% SLA)
+- Legacy services that are difficult to modify
+
+Any new system introduced must:
+- Integrate with existing services via APIs
+- Avoid long-running synchronous processes
+- Support gradual rollout and rollback
+
+Engineering leadership is open to AI-powered internal tools,
+as long as they operate asynchronously and do not impact core production systems.

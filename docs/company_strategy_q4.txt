@@ -1,0 +1,19 @@
+Company Strategy – Q4 Internal Memo
+
+The company’s primary objective for Q4 is revenue stabilization while preparing for a larger expansion in Q2 next year.
+Due to macroeconomic uncertainty, leadership has decided to pause aggressive hiring and instead focus on operational efficiency.
+
+Key priorities include:
+- Reducing customer churn in mid-market accounts
+- Improving onboarding experience for new customers
+- Increasing usage of premium features among existing customers
+
+Engineering teams have been asked to reduce infrastructure costs by at least 10% without impacting reliability.
+Marketing budgets have been reduced by 15%, with a stronger emphasis on organic growth and partnerships.
+
+Risks:
+- Customer dissatisfaction due to slower feature delivery
+- Increased pressure on existing engineers
+- Potential loss of competitive edge if innovation slows
+
+Leadership believes that AI-driven automation could offset some of these risks by improving productivity across support and engineering.

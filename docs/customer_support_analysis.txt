@@ -1,0 +1,23 @@
+Customer Support Analysis – Last 6 Months
+
+Support ticket volume increased by approximately 22% over the last six months.
+The majority of tickets fall into three categories:
+1. Onboarding confusion
+2. Billing and subscription questions
+3. Feature usability issues
+
+Sentiment analysis of support conversations indicates a gradual decline in customer satisfaction,
+especially among new customers in their first 30 days.
+
+Common complaints include:
+- Lack of clear documentation
+- Delayed response times during peak hours
+- Difficulty understanding advanced features
+
+Positive feedback often mentions:
+- Friendly support agents
+- Fast resolution for simple issues
+- Product reliability
+
+Support leadership has proposed introducing AI-assisted ticket triage and automated responses
+for low-complexity issues to reduce response time and free up human agents for complex cases.

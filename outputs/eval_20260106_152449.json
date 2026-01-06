@@ -1,0 +1,13 @@
+{
+  "score": 9,
+  "issues": [
+    "Lacks explicit quantitative targets for pilot success metrics (e.g., % reduction in resolution time, accuracy thresholds),",
+    "Missing detailed risk mitigation plan beyond rollback procedures,",
+    "No explicit timeline or milestones for pilot phases and subsequent scaling."
+  ],
+  "improvements": [
+    "Define concrete KPI thresholds (e.g., 15% faster resolution time, 90% accuracy in risk detection),",
+    "Add a risk register with mitigation actions, escalation paths, and contingency budgets,",
+    "Include a phased timeline (pilot start, mid\u2011review, scaling decision) with dates and deliverables."
+  ]
+}

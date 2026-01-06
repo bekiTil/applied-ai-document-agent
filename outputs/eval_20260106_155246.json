@@ -1,0 +1,13 @@
+{
+  "score": 9,
+  "issues": [
+    "Some recommendations lack explicit resource allocation details (e.g., staffing for human-in-the-loop review),",
+    "The stakeholder review cadence is mentioned but not tied to specific dates or milestones,",
+    "There is no explicit contingency plan for exceeding the 5% incremental spend threshold during the pilot."
+  ],
+  "improvements": [
+    "Add a detailed resource plan for the pilot including roles and hours,",
+    "Specify exact dates for weekly demos and end-of-pilot review in the next steps,",
+    "Define clear escalation and rollback steps if cost or hallucination thresholds are breached."
+  ]
+}
